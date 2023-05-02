@@ -1,6 +1,6 @@
 # StackMask  
 
-This is a PoC of encrypting the stack prior to custom sleeping by leveraging CPU cycles. This is the code of the relevant blog post: [Masking the Implant with Stack Encryption](https://whiteknightlabs.com/blog/masking-the-implant-with-stack-encryption)
+This is a PoC of encrypting the stack prior to custom sleeping by leveraging CPU cycles. This is the code of the relevant blog post: [Masking the Implant with Stack Encryption](https://whiteknightlabs.com/2023/05/02/masking-the-implant-with-stack-encryption/)
 
 ## Workflow  
 
